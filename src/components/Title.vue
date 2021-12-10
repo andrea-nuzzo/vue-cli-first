@@ -12,4 +12,7 @@
 
 
 <style scoped>
+h1{
+    margin-bottom: 60px;
+}
 </style>
